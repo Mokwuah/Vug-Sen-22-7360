@@ -1,0 +1,4 @@
+django project
+username Mokwuah
+email chidieberemokwuah@gmail.com
+password 1234567890
